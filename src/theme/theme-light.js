@@ -80,9 +80,9 @@ export default {
   controlSurface: '#F9FAFC',
   controlUnder: '#DDE4E9',
 
-  accent: '#2fd47a',
+  accent: '#fa9a42',
   accentStart: '#81fbb8',
-  accentEnd: '#2fd47a',
+  accentEnd: '#fa9a42',
   accentContent: '#FFFFFF',
 
   floating: '#30404F',
