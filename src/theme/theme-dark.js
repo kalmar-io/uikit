@@ -2,13 +2,13 @@ export default {
   _name: 'dark',
   _appearance: 'dark',
 
-  background: '#21242B',
+  background: '#0d0e11',
   border: '#2a2a2c',
-  overlay: '#21242B',
+  overlay: '#0d0e11',
   content: '#FFFFFF',
   contentSecondary: '#797b7f',
 
-  surface: '#2A2C34',
+  surface: '#111215',
   surfaceContent: '#FFFFFF',
   surfaceContentSecondary: '#797b7f',
   surfaceIcon: '#63656a',
@@ -17,7 +17,7 @@ export default {
   surfaceSelected: '#4d4f55',
   surfaceHighlight: '#4d4f55',
   surfacePressed: '#373940',
-  surfaceInteractive: '#2A2C34',
+  surfaceInteractive: '#111215',
 
   feedbackSurface: '#4d4f55',
   feedbackSurfaceContent: '#2a2a2c',
@@ -34,7 +34,7 @@ export default {
   help: '#7C80F2',
   helpContent: '#FFFFFF',
   helpSurface: '#FFFFFF',
-  helpSurfaceContent: '#21242B',
+  helpSurfaceContent: '#0d0e11',
 
   negative: '#FF6969',
   negativeContent: '#FFFFFF',
@@ -74,7 +74,7 @@ export default {
   disabledIcon: '#63656a',
 
   control: '#63656a',
-  controlBorder: '#21242B',
+  controlBorder: '#0d0e11',
   controlBorderPressed: '#63656a',
   controlDisabled: '#373940',
   controlSurface: '#F9FAFC',
@@ -85,7 +85,7 @@ export default {
   accentEnd: '#fa9a42',
   accentContent: '#FFFFFF',
 
-  floating: '#2A2C34',
+  floating: '#111215',
   floatingContent: '#FFFFFF',
 
   green: '#9BC75A',
